@@ -12,3 +12,5 @@ Una nueva actualizacion para checar fetch
 
 
 fit opi de liz
+
+esta es una prueba para que lizG4 jale informacion
